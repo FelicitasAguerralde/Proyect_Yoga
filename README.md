@@ -136,9 +136,9 @@ yoga/
 
 ## 📞 Información de Contacto
 
-- **Dirección**: Av. España 1234 - Tandil - Bs.As - Argentina
-- **Teléfono**: (+54)249 15 41234
-- **Email**: yoga_pilates@gmail.com
+- **Linkedin**: Felicitas Aguerralde
+- **Teléfono**: (+54)2494 026987
+- **Email**: felicitas.aguerralde@gmail.com
 
 ## 🤝 Contribuciones y agradecimientos
 
